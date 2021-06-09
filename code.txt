@@ -1,13 +1,6 @@
 
 # Classification of Sound waves and frequencies
-## Data Web Mining Project By BSc Students
 
-# AP18211050005 Patan Fazulullah
-# AP18211050007 Junapudi Scotti Deva
-# AP18211050009 SVS Harsha
-# AP18211050001 Desu Harshitha
-# AP18211050006 Peddi Sree Deepthi
-# AP18211050003 Shaik Abdul Rehman
 
 from tempfile import TemporaryFile
 import os
